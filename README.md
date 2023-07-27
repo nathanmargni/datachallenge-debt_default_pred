@@ -1,0 +1,2 @@
+# datachallenge - client default prediction 
+This project is a data analysis of a given dataset with the task of predicting whether a customer would default or manage to repay their debt. The project focuses on the explainability of the prediction and uses various classifiers, data preprocessing techniques, and data augmentation methods to achieve the best results. The documentation contains a detailed analysis of the approach, experimental results, and model explainability methods used in the project.
